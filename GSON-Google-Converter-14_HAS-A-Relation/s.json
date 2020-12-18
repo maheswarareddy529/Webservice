@@ -1,0 +1,19 @@
+{
+  "empId": 294,
+  "empName": "Sankar",
+  "add": {
+    "hno": 230,
+    "loc": "hyd"
+  },
+  "projects": [
+    "p1",
+    "p2",
+    "p3",
+    "p4"
+  ],
+  "varsions": {
+    "p3": "v3",
+    "p2": "v2",
+    "p1": "v1"
+  }
+}
