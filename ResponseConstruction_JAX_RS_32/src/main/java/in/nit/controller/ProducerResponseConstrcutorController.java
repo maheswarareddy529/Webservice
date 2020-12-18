@@ -7,7 +7,6 @@ import javax.ws.rs.core.Response;
 
 @Path("/resp")
 public class ProducerResponseConstrcutorController {
-
 	@Path("/r")
 	@GET
 	public Response doOperation(
