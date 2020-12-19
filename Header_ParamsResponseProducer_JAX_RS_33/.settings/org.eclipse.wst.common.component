@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
         
-    <wb-module deploy-name="ResponseConstruction_JAX_RS_32">
+    <wb-module deploy-name="Header_ParamsResponseProducer_JAX_RS_33">
                 
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
                 
@@ -8,8 +8,8 @@
                 
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
                 
-        <property name="java-output-path" value="/ResponseConstruction_JAX_RS_32/target/classes"/>
-        <property name="context-root" value="Header_ParamsResponseConstruction_JAX_RS_33"/>
+        <property name="java-output-path" value="/Header_ParamsResponseProducer_JAX_RS_33/target/classes"/>
+        <property name="context-root" value="Header_ParamsResponseProducer_JAX_RS_33"/>
             
     </wb-module>
     
