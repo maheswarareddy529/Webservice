@@ -15,7 +15,7 @@ public class Testclass {
 		try {
 			//Creating Form Class object
 			Form f=new Form();
-			//adding dats to Form object
+			//adding data to Form object
 			f.param("u", "ABC-123");
 			
 			Client c=ClientBuilder.newClient();
