@@ -6,7 +6,7 @@ import in.nit.db.DBConn;
 import in.nit.model.Student;
 
 public class StudentDaoImpl implements IStudentDao {
-
+//1.Saving Data From Database
 	@Override
 	public Integer saveStudent(Student s) {
 		String query="INSERT INTO STUDENTS VALUES(?,?,?,?,?)";
