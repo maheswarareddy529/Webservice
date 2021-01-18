@@ -1,5 +1,4 @@
 package in.nit.config;
-
 import javax.ws.rs.ApplicationPath;
 
 import org.glassfish.hk2.utilities.binding.AbstractBinder;
