@@ -60,6 +60,7 @@ public class StudentRestConsumer {
 			Response resp=builder.delete();
 			System.out.println(resp.getStatus());// to get response status in Console 
 			msg=resp.readEntity(String.class);
+			System.out.println(msg);
 		}
 		catch(Exception e) {
 			e.printStackTrace();
